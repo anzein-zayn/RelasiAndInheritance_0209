@@ -3,5 +3,6 @@
 
 class ibu
 {
-
+public:
+    string nama:
 }
